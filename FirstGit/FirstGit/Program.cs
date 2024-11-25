@@ -2,7 +2,11 @@
 Console.WriteLine("Hello, World!");
 
 
-Console.WriteLine("Think before you speak");
+
+Console.WriteLine("hej");
+
+
+
 
 
 Console.WriteLine("med dig");
