@@ -3,3 +3,6 @@ Console.WriteLine("Hello, World!");
 
 
 Console.WriteLine("Think before you speak");
+
+
+Console.WriteLine("med dig");
